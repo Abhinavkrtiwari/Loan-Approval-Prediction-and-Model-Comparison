@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 💡 Contributions are welcome! Please fork the repository, create a branch, and submit a pull request for any improvements.
 
-© 2024 Mohd Juned Khan. All rights reserved.
+© 2024 Abhinav Kumar Tiwari. All rights reserved.
 
 vbnet
 This frame provides an organized, professional README structure with all essential sections like features, setup, instructions, and future enhancements. You can copy-paste and modify this for your project. Let me know if you need additional details or tweaks!
